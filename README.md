@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://github.com/rsornellas/">
-    <img alt="Raphael Ornellas" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
   <a>
   <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
   <p> Inicio: 07/06/2020 Domingo </p>
@@ -52,7 +49,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/rsornellas/ecoleta.git
+  $ git clone https://github.com/rsornellas/cei-integration
 ```
 
 2. Executando a Aplicação:
