@@ -1,0 +1,28 @@
+{
+  "name": "cei-integration",
+  "version": "1.0.0",
+  "description": "Integração com o CEI",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "ts-node-dev --ignore-watch node_modules src/server.ts"
+  },
+  "keywords": [],
+  "author": "Raphael Ornellas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.18",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.6",
+    "@types/puppeteer": "^3.0.0",
+    "ts-node": "^8.10.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.3"
+  }
+}
